@@ -7,5 +7,6 @@ public class GitTest1
         System.out.println("Hello World123");
         System.out.println("master commit");
         System.out.println("dev commit");
+        System.out.println("pull by github");
     }
 }
